@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('AppBar'),
+          title: Text('AppBarrr'),
           backgroundColor: Colors.cyan,
         ),
         body: SingleChildScrollView(
